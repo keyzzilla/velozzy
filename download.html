@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Download Velozzy | Keyzzilla Labs</title>
+    <style>
+        body { font-family: 'Inter', sans-serif; background: #050505; color: #fff; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; }
+        .setup-box { background: #0f0f0f; border: 1px solid #222; padding: 40px; border-radius: 20px; max-width: 500px; text-align: center; }
+        h2 { color: #00a2ff; }
+        .step { text-align: left; background: #1a1a1a; padding: 15px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #00a2ff; }
+        .step-num { font-weight: 800; color: #00a2ff; margin-right: 10px; }
+    </style>
+</head>
+<body>
+    <div class="setup-box">
+        <h2>preparing your download...</h2>
+        <p>thanks for choosing velozzy. follow these steps to finish the setup:</p>
+        <div class="step"><span class="step-num">01</span> run <strong>VelozzySetup.exe</strong>.</div>
+        <div class="step"><span class="step-num">02</span> follow the prompts (next, next, install).</div>
+        <div class="step"><span class="step-num">03</span> launch from your desktop!</div>
+        <p style="font-size: 0.8rem; color: #555; margin-top: 20px;">if the download didn't start, <a href="VelozzySetup.exe" style="color:#00a2ff;">click here</a>.</p>
+        <a href="index.html" style="color:#888; text-decoration:none; font-size:0.8rem;">← back to home</a>
+    </div>
+    <script>
+        // automatically trigger download after 2 seconds
+        setTimeout(() => { window.location.href = 'VelozzySetup.exe'; }, 2000);
+    </script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+VELOZZY v1.0
+Developed by @keyzzilla
+Published by Keyzzilla Labs
+
+THANKS FOR DOWNLOADING
+Velozzy is a custom-built, ultra-fast web browser 
+designed for speed and simplicity.
+
+HOW TO INSTALL:
+1. Run Velozzy_Setup.exe
+2. Follow the prompts (Next, Next, Install)
+3. Launch from your desktop!
+
+FEATURES:
+- Custom Chromium Engine
+- Smooth Navigation
+- Secure Password Vault
+- Extension Side-Loading Support
+
+SUPPORT:
+For questions, business inquiries, or bug reports, 
+direct message the developer at @keyzzilla.
+Official funding: https://ko-fi.com/keyzzilla
+
+STAY FLY.
